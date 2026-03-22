@@ -94,7 +94,7 @@ Movies
 
 
 
-Conclusion
+Conclusion:
 Netflix has expanded rapidly since 2015, reaching peak content addition in 2019. While movies still dominate the platform, there is a noticeable shift toward TV Shows. The platform is increasingly investing in international content, with countries like India emerging as major contributors. Viewer preferences indicate a strong inclination toward shorter and engaging content formats, primarily targeting adults and teenagers.
 
 
